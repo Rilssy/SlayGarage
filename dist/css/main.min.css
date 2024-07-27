@@ -100,7 +100,6 @@ header {
 	background-position: 50%;
 	display: flex;
 	justify-content: center;
-    
 }
 header .wrapper {
 	z-index: 2;
@@ -135,7 +134,7 @@ header .header__photo {
 .section__info {
 	text-transform: uppercase;
 	font-weight: 700;
-	margin: 5rem 0;
+	margin: 10rem 0 5rem;
 	text-align: center;
 	font-size: 5rem;
 }
