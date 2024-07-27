@@ -109,7 +109,7 @@ header .shadow {
 	height: 100%;
 	width: 100%;
 	z-index: 1;
-	background-color: rgba(0, 0, 0, 0.52);
+	background: linear-gradient(in oklab, rgba(211, 255, 255, 0), #0e0e0e);
 }
 header .header__text {
 	margin-top: 10rem;
@@ -382,10 +382,7 @@ header .header__photo {
 		justify-content: space-between;
 		align-items: center;
 	}
-	header .header .shadow {
-		background-color: transparent;
-		background: linear-gradient(in oklab, rgba(211, 255, 255, 0), #0e0e0e);
-	}
+
 	header .header__text {
 		margin-top: 0;
 		width: 50%;
