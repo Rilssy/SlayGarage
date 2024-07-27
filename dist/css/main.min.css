@@ -95,7 +95,7 @@ body {
 }
 header {
 	height: 100vh;
-	background-image: url(/dist/img/Ferrari-LaFerrari-for-sale.50003_1.jpg);
+	background-image: url(../img/Ferrari-LaFerrari-for-sale.50003_1.jpg);
 	background-size: cover;
 	background-position: 50%;
 	display: flex;
@@ -143,7 +143,7 @@ header .header__photo {
 	flex-direction: column;
 }
 .aboutus__image {
-	background-image: url(/dist/img/garage.jpg);
+	background-image: url(../img/garage.jpg);
 	height: 50rem;
 	background-size: cover;
 	background-position: 50%;
@@ -219,13 +219,13 @@ header .header__photo {
 	color: #55adff;
 }
 .offer .porsche911 {
-	background-image: url(/dist/img/S21_0975.jpg);
+	background-image: url(../img/S21_0975.jpg);
 }
 .offer .laferrari {
-	background-image: url(/dist/img/laferrari2.jpg);
+	background-image: url(../img/laferrari2.jpg);
 }
 .offer .audir8 {
-	background-image: url(/dist/img/audir8.webp);
+	background-image: url(../img/audir8.webp);
 }
 .decoration {
 	font-weight: 700;
